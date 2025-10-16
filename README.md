@@ -1,3 +1,3 @@
 # Quiz_prompt_test_2
 
-Auto-generated. Brief: Create a working quiz app  using javascript and html that handles multple choice question with 4 options and one option as correct answer.give background color to the app.
+Auto-generated. Brief:  add two more question english grammer basics to quiz with same format and show the score after submitting the quiz
